@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @bert-cafecito
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there! 👋
 
-<!---
-bert-cafecito/bert-cafecito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Bert Cafecito, a passionate developer currently studying for the AWS Solution Architect - Professional exam. I enjoy learning about cloud solutions and improving my skills in Python.
+
+## 🌱 What I'm Working On
+- Studying for the AWS Solution Architect - Professional exam
+- Exploring cloud architecture best practices
+
+## 🚀 Skills & Tools
+- **Programming:** Python
+- **Cloud:** AWS (studying for Solution Architect - Professional)
+
+## 📫 Let's Connect!
+- [Dev.to](https://dev.to/bert-cafecito)
